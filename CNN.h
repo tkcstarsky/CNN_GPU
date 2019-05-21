@@ -3,9 +3,10 @@
 
 // helpful typedef's
 
-#include "vector"
-#include "assert.h"
-#include "math.h"
+#include <vector>
+#include <assert.h>
+#include <math.h>
+#include <climits>
 using namespace std;
 
 class NeuralNetwork;
