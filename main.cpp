@@ -4,7 +4,7 @@
 #include <time.h>
 #include <stdio.h>  
 #include <sys/io.h>
-#include "cnn.h"
+#include "CNN.h"
    
 using namespace std;
 
