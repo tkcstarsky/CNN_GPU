@@ -1,10 +1,10 @@
-#include "CNN.h"
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <time.h>
 #include <stdio.h>  
 #include <sys/io.h>
+#include "cnn.h"
    
 using namespace std;
 
