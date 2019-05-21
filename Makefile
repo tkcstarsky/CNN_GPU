@@ -1,5 +1,5 @@
 CC = g++
-CCFLAGS = -std=c11
+CCFLAGS = 
 
 main: main.o CNN.o
 	$(CC) -o main main.o CNN.o $(CCFLAGS)
