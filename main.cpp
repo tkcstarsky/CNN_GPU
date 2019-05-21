@@ -1,10 +1,11 @@
 #include "CNN.h"
-#include "iostream"
-#include "fstream"
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <time.h>
+#include <stdio.h>  
 #include <sys/io.h>
-#include "string"
-#include "time.h"
-#include "stdio.h"     
+   
 using namespace std;
 
 void buildCNN(NeuralNetwork& NN)
