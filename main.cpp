@@ -1,7 +1,7 @@
 #include "CNN.h"
 #include "iostream"
 #include "fstream"
-#include <io.h>
+#include <sys/io.h>
 #include "string"
 #include "time.h"
 #include "stdio.h"     
